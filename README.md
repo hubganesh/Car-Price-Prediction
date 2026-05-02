@@ -4,6 +4,8 @@
 
 A comprehensive machine learning project for predicting used car prices in India using Random Forest Regression. This project demonstrates advanced ML techniques including feature engineering, model training, and web deployment with Streamlit.
 
+## Deployed in Streamlit link: https://priceprediction-usedcars.streamlit.app/
+
 ## ✨ Features
 
 - **High Accuracy**: R² score > 0.94 with confidence intervals
