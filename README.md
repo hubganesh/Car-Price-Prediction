@@ -135,7 +135,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Developed as part of Summer Internship Project - Machine Learning for Car Price Prediction
+Developed as part of  Project - Machine Learning for Car Price Prediction
 
 ---
 
